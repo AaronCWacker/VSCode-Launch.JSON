@@ -3,7 +3,7 @@ In VSCode launch.json is used for startup debug parameters.  This repo has examp
 
 
 # Streamlit
-'''
+"""
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -24,4 +24,4 @@ In VSCode launch.json is used for startup debug parameters.  This repo has examp
         }
     ]
 }
-'''
+"""
